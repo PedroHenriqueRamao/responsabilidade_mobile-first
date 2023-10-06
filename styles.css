@@ -1,0 +1,10 @@
+:root {
+    --fonte-principal: "Poppins";
+}
+body {
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+}
+.lista-menu__titulo{
+    font-weight: 700;
+}
